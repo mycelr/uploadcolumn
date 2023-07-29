@@ -1,1 +1,1 @@
-Update pyproject.toml and Docs (#7274)
+Expand Model method type hinting (#8279)
