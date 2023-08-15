@@ -1,1 +1,1 @@
-Bump nick-invision/retry from 2 to 3 in /.github/workflows (#8023)
+Elaborate Train and Predict mode docs arguments (#8137)
