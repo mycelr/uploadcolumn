@@ -1,1 +1,1 @@
-OBB Docs updates (#7512)
+Add KaTeX support + updates to YOLOv9 model page (#8531)
