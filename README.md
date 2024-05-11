@@ -1,1 +1,1 @@
-Add settings runs_dir == datasets_dir warning (#8653)
+Add C++ Classify inference example (#6868)
