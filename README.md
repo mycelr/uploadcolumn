@@ -1,1 +1,1 @@
-Add CoreML Docs Integrations Page (#8063)
+RTDETRDetectionModel TorchScript, ONNX Predict and Val support (#8818)
