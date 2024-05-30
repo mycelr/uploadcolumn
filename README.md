@@ -1,1 +1,1 @@
-Add HUB-SDK docs (#7775)
+OBB: Fix plot_images (#7592)
